@@ -1,0 +1,8 @@
+{
+  "name": "Sant Rampal Ji Maharaj - YouTube Satsang Portal",
+  "description": "Spiritual website showcasing Jagatguru Tatvdarshi Sant Rampal Ji Maharaj, featuring latest YouTube satsang videos from @SantRampal-b6z with direct video links and sacred teachings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
